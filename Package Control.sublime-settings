@@ -1,0 +1,23 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"Anaconda",
+		"GitGutter",
+		"Github Tools",
+		"Gitignore",
+		"HTMLBeautify",
+		"MarkdownEditing",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Tomorrow Color Schemes",
+		"Vagrant"
+	]
+}
